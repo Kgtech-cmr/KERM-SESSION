@@ -33,7 +33,7 @@ router.get('/', async (req, res) => {
                 },
                 printQRInTerminal: false,
                 logger: pino({level: "fatal"}).child({level: "fatal"}),
-                browser: ["Chrome (KgTech237)", "", ""]
+                browser: ["Chrome (Linux)", "", ""]
              });
              if(!Pair_Code_By_Gifted_Tech.authState.creds.registered) {
                 await delay(1500);
