@@ -40,7 +40,7 @@ router.get('/', async (req, res) => {
 				logger: pino({
 					level: "silent"
 				}),
-				browser: Browsers.macOS("KgTech237"),
+				browser: Browsers.macOS("desktop"),
 			});
 
 			Qr_Code_By_Wasi_Tech.ev.on('creds.update', saveCreds)
