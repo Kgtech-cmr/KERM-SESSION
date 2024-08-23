@@ -60,7 +60,7 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃KERM_MD_V2 SESSION IS 
+┃KERM_MD-V2 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
@@ -69,9 +69,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhatsApp Channel = https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Group
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-➌ ||  WhatsApp Group = https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw
+➌ || WhatsApp Group = https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 KG_TECH*
 _____________________________________
