@@ -73,7 +73,7 @@ Please Follow My Support group
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 KG TECH*
 
-_Don't Forget To Give Star ⭐️ To My Repo_
+*_Don't Forget To Give Star ⭐️ To My Repo_*`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 
