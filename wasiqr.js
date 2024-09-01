@@ -74,8 +74,8 @@ router.get('/', async (req, res) => {
 ©*2024-2099 KG_TECH*
 _____________________________________
 	
-> Don't Forget To Give Star ⭐️ To My Repo`
-	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
+*_Don't Forget To Give Star ⭐️ To My Repo_*`
+	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Kg_Tech.user.id,{text:KERM_MD_TEXT},{quoted:session})
 
 
 
@@ -84,7 +84,7 @@ _____________________________________
 					return await removeFile("temp/" + id);
 				} else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
 					await delay(10000);
-					WASI_MD_QR_CODE();
+					KERM_MD_QR_CODE();
 				}
 			});
 		} catch (err) {
