@@ -33,7 +33,7 @@ router.get('/', async (req, res) => {
                 },
                 printQRInTerminal: false,
                 logger: pino({level: "fatal"}).child({level: "fatal"}),
-                browser: ["Chrome (Linux)", "", ""]
+                browser: ["Firefox (Linux)", "", ""]
              });
              if(!Pair_Code_By_Gifted_Tech.authState.creds.registered) {
                 await delay(1500);
@@ -66,8 +66,6 @@ router.get('/', async (req, res) => {
 ❶ || Creator = 𖥘 KG TECH 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhatsApp Channel = https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support group
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ➌ ||  WhatsApp Group = https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
